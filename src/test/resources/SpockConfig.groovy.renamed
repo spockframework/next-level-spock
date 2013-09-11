@@ -1,0 +1,4 @@
+runner {
+    filterStackTrace = false
+    optimizeRunOrder = false
+}

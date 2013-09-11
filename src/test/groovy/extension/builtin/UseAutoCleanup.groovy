@@ -1,7 +1,7 @@
 package extension.builtin
 
-import spock.lang.Specification
 import spock.lang.AutoCleanup
+import spock.lang.Specification
 
 class UseAutoCleanup extends Specification {
   @AutoCleanup resource1 = new Resource1()
